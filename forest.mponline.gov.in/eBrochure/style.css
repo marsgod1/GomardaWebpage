@@ -13,6 +13,7 @@
 .photogallery{
 
     background:url('../Images/ParkImages/bandhvgarh/Gallery/17.jpg') repeat bottom center scroll; background-size:auto;width: 100%;height:auto;
+    baclground-attachment: fixed;
   height: auto;
 }
 .nav-cont {
